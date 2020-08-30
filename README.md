@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://spotify-widget-seven.vercel.app/" alt="Mariana's Spotify"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafdz465&layout=compact"/>
