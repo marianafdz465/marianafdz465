@@ -1,14 +1,16 @@
 ### About me 👋
 
 Hi my name is Mariana 
-<!--
-**marianafdz465/marianafdz465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Work in progress
 
 News
 - Won the Outstanding Graduate Student Teacher Award of Notre Dame University College of Engineering (Fall 2023).
-- Won FRONTLINES ND-ECI Fellowship
+- Won FRONTLINES ND-ECI Fellowship (Spring 2024).
+
+<!--
+**marianafdz465/marianafdz465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
