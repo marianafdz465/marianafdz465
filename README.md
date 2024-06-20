@@ -5,6 +5,7 @@ Hi my name is Mariana
 Work in progress
 
 News
+- Won 2nd place in the [IBM Hackathon](https://techethicslab.nd.edu/news/notre-dame-ibm-technology-ethics-lab-hosts-first-ever-hackathon/)
 - Won the Outstanding Graduate Student Teacher Award of Notre Dame University College of Engineering (Fall 2023).
 - Won FRONTLINES ND-ECI Fellowship (Spring 2024).
 
