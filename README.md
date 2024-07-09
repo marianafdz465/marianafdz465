@@ -6,8 +6,8 @@ Work in progress
 
 News
 - Won 2nd place in the [IBM Hackathon](https://techethicslab.nd.edu/news/notre-dame-ibm-technology-ethics-lab-hosts-first-ever-hackathon/) (Spring 2024)
-- Won the Outstanding Graduate Student Teacher Award of Notre Dame University College of Engineering (Fall 2023).
-- Won FRONTLINES ND-ECI Fellowship (Spring 2024).
+- Won the [Outstanding Graduate Student](https://learning.nd.edu/for-grad-student-post-docs-2/outstanding-graduate-student-ta-awards/) Teacher Award of Notre Dame University College of Engineering (Fall 2023). 
+- Won [FRONTLINES ND-ECI Fellowship](https://environmentalchange.nd.edu/opportunities/frontlines-nd-eci-graduate-fellows/) (Spring 2024)
 
 <!--
 **marianafdz465/marianafdz465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
