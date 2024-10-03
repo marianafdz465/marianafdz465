@@ -1,6 +1,7 @@
 ### About me 👋
 
-Hi my name is Mariana 
+Hi, my name is Mariana Fernández-Espinosa. I am a second-year PhD student in Computer Science and Engineering at the University of Notre Dame, advised by Dr. Diego Gómez-Zara.
+My research is mainly related to XR technologies 
 
 Work in progress
 
