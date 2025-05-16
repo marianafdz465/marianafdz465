@@ -6,7 +6,8 @@ My research focuses on generative AI and spatial computing. I develop and analyz
 My website https://marianafdz465.github.io/
 
 News
-- Won ND-IBM Fellowships 2025-2026! 
+- Won ND-IBM Fellowships 2025-2026!
+- Attend Social XR Spring School Amsterdam
 - Two papers accepted as first author (CHI'25 and CSCW'25)
 - Won 2nd place in the [IBM Hackathon](https://techethicslab.nd.edu/news/notre-dame-ibm-technology-ethics-lab-hosts-first-ever-hackathon/) (Spring 2024)
 - Won the [Outstanding Graduate Student](https://learning.nd.edu/for-grad-student-post-docs-2/outstanding-graduate-student-ta-awards/) Teacher Award of Notre Dame University College of Engineering (Fall 2023). 
