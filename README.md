@@ -13,6 +13,13 @@ News
 - Won the [Outstanding Graduate Student](https://learning.nd.edu/for-grad-student-post-docs-2/outstanding-graduate-student-ta-awards/) Teacher Award of Notre Dame University College of Engineering (Fall 2023). 
 - Won [FRONTLINES ND-ECI Fellowship](https://environmentalchange.nd.edu/opportunities/frontlines-nd-eci-graduate-fellows/) (Spring 2024)
 
+
+I am proud to have mentored the following amazing students:
+- Bridget Lewis - Research Assistant - Multiplayer with Normcore (Fall 2024)
+- Ethan Farley - Research Assistant - Object Detection MR (Spring 2025)
+- Kai Zhang (Columbia University) - Research Assistant (Summer 2025) 
+
+
 <!--
 **marianafdz465/marianafdz465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
