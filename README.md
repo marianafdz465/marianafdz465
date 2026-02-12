@@ -19,6 +19,8 @@ I am proud to have mentored the following amazing students:
 - Ethan Farley - Research Assistant - Object Detection MR (Spring 2025)
 - Kai Zhang (Columbia University) - Research Assistant (Summer 2025)
 - Olivia Lee - Research Assistant (Spring 2025-Summer 2025)
+- Jacobo Wiesner - Research Assitant ()
+- Mariana Gonzalez - Research Assistant
 
 
 <!--
