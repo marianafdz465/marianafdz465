@@ -6,6 +6,8 @@ My research focuses on generative AI and spatial computing. I develop and analyz
 My website https://marianafdz465.github.io/
 
 News
+- I won the best poster presentation in the Computer Science department 
+-I was finalist in the 3MT Comptetion
 - Won ND-IBM Fellowships 2025-2026!
 - Attend Social XR Spring School Amsterdam
 - Two papers accepted as first author (CHI'25 and CSCW'25)
