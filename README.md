@@ -1,9 +1,9 @@
 ### About me 👋
 
-Hi, my name is Mariana Fernández-Espinosa. I am a second-year PhD student in Computer Science and Engineering at the University of Notre Dame, advised by Dr. Diego Gómez-Zara.
+Hi, my name is Mariana Fernández-Espinosa. I am a third-year PhD student in Computer Science and Engineering at the University of Notre Dame, advised by Dr. Diego Gómez-Zara.
 My research focuses on generative AI and spatial computing. I develop and analyze novel methods and systems that facilitate collaboration between teams in extended reality spaces, with a focus on Human-AI interactions. I am particularly interested in how integrating AI with immersive technologies can enable teams to achieve innovative results and enhanced experiences. Additionally, I explore the potential of generative AI to boost creativity, support decision-making processes, and facilitate task delegation between teams and AI in virtual reality environments.
 
-My website https://marianafdz465.github.io/
+My website https://marianafernandez.tech
 
 News
 - I won the best poster presentation in the Computer Science department 
